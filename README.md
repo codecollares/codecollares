@@ -1,10 +1,9 @@
-## Bem-vindo! Eu sou o Colla c:
-
-- 🔭 Em busca de uma vaga na área de TI!
-- 🌱 Estudando front-end e back-end
-- ⚡ Pronomes: ele/dele
+## Bem-vindo! Eu sou o Colla 👨‍💻
 
 **`Desenvolvedor Fullstack`**
+
+- 🌱 Estudando front-end e back-end
+- ⚡ Pronomes: ele/dele
 
 Meu nome é João Pedro Collares e tenho 20 anos. Sou natural do Rio Grande do Sul, a terra onde cresci, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisinos. Desde pequeno, cresci ao redor da tecnologia e, com o tempo, acabei criando uma paixão enorme por tudo que envolvesse isso! Sou um amante da tecnologia e gosto de passar o tempo aprendendo cada vez mais sobre os diversos ramos e linguagens da programação.
 
