@@ -26,6 +26,10 @@ Meu nome é João Pedro Collares e tenho 20 anos. Sou natural do Rio Grande do S
 
 ---
 
+<div style="display: inline_block"><br>
+    <img align="right" alt="Colla-gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/1219697722354040952/1341222359394422855/ezgif.com-animated-gif-maker_1.gif?ex=67b53629&is=67b3e4a9&hm=3b312232023e4afa8c7c2f5fe76ca8ec57e4f907e007e8a6fbd205633193f31e&">
+</div>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
