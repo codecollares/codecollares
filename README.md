@@ -1,4 +1,4 @@
-## Bem-vindo! Eu sou o Colla 👨‍💻
+## Bem-vindo! Eu sou o Collares 👨‍💻
 
 **`Engenheiro de Software`**
 
