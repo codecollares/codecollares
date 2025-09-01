@@ -1,6 +1,6 @@
 ## Bem-vindo! Eu sou o Collares 👨‍💻
 
-**`Engenheiro de Software`**
+**`Desenvolvedor de Software`**
 
 - 🌱 Estudando front-end e back-end
 
