@@ -1,10 +1,10 @@
-## Bem-vindo! Eu sou o Collares 👨‍💻
+## Welcome! I'm Dev Collares. 👨‍💻
 
-**`Desenvolvedor de Software`**
+**`Software Developer`**
 
-- 🌱 Estudando front-end e back-end
+- 🌱 Studying both back-end and front-end.
 
-Meu nome é João Pedro Collares e tenho 20 anos. Sou natural do Rio Grande do Sul, a terra onde cresci, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unipê. Desde pequeno, cresci ao redor da tecnologia e, com o tempo, acabei criando uma paixão enorme por tudo que envolvesse isso! Sou um amante da tecnologia e gosto de passar o tempo aprendendo cada vez mais sobre os diversos ramos e linguagens da programação.
+My name is João Pedro Collares and I am 20 years old. I was born in Rio Grande do Sul, where I grew up, and I am currently studying Systems Analysis and Development at Unipê. Since I was a child, I grew up surrounded by technology and, over that time, I developed a huge passion for everything related to it! I am a technology lover and enjoy spending my time learning more and more about the various branches and languages of programming.
 
 <p align="left">
     <a href="https://github.com/codecollares?tab=repositories&sort=stargazers">
@@ -29,7 +29,7 @@ Meu nome é João Pedro Collares e tenho 20 anos. Sou natural do Rio Grande do S
     <img align="right" alt="Colla-gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/1219697722354040952/1341222359394422855/ezgif.com-animated-gif-maker_1.gif?ex=67b53629&is=67b3e4a9&hm=3b312232023e4afa8c7c2f5fe76ca8ec57e4f907e007e8a6fbd205633193f31e&">
 </div>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <div style="display: inline_block"><br>
     <img 
@@ -86,7 +86,7 @@ Meu nome é João Pedro Collares e tenho 20 anos. Sou natural do Rio Grande do S
 <br/>
 </div>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <img 
     align="left" 
