@@ -9,8 +9,8 @@ My name is João Pedro Collares and I am 20 years old. I was born in Rio Grande 
 <p align="left">
     <a href="https://github.com/codecollares?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total amount of stars" 
+            title="Total amount of stars on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/codecollares?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
