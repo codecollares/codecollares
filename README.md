@@ -16,8 +16,8 @@ My name is João Pedro Collares and I am 20 years old. I was born in Rio Grande 
     </a>
     <a href="https://github.com/codecollares?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/codecollares?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
