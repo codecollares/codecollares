@@ -4,7 +4,15 @@
 
 - 🌱 Studying both back-end and front-end.
 
-My name is João Pedro Collares and I am 20 years old. I was born in Rio Grande do Sul, where I grew up, and I am currently studying Systems Analysis and Development at Unipê. Since I was a child, I grew up surrounded by technology and, over that time, I developed a huge passion for everything related to it! I am a technology lover and enjoy spending my time learning more and more about the various branches and languages of programming.
+My name is João Pedro Collares and I am 20 years old. I was born in Rio Grande do Sul, where I grew up, and I am currently studying Systems Analysis and Development at Unipê. Since I was a child, I grew up surrounded by technology and, over that time, I developed a huge passion for everything related to it.
+
+I am a technology lover and enjoy spending my time learning more and more about the various branches and languages of programming!
+
+Fun facts:
+- Romance is my favorite genre for both books and series
+- Hot chocolate is my favorite drink
+- Besides tech stuff, I also really enjoy cooking and drawing!
+- I have one cat called Vitória
 
 <p align="left">
     <a href="https://github.com/codecollares?tab=repositories&sort=stargazers">
