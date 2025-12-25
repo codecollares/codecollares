@@ -109,7 +109,7 @@ Fun facts:
     alt="GitHub Stats" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecollares&theme=transparent&layout=compact&locale=pt-br&custom_title=Tecnologias&langs_count=4" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecollares&theme=transparent&layout=compact&locale=pt-br&custom_title=Technologies&langs_count=4" 
 />
 
 <picture>
