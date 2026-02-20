@@ -1,3 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0055ff&section=header&reversal=false&textBg=false"/>
+
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/wv3kcRL.png" />
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=275FF7&center=true&width=435&lines=Starborn" alt="Typing SVG" />
+</div>
+
+
+
 ## Welcome! I'm Dev Collares. 🥧
 
 **`Software Developer`**
@@ -14,30 +26,7 @@ Fun facts:
 - Besides tech, I also love cooking and drawing.
 - I have a cat named Vitória.
 
-<p align="left">
-    <a href="https://github.com/codecollares?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total amount of stars" 
-            title="Total amount of stars on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/codecollares?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/codecollares?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/codecollares?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
-
-<div style="display: inline_block"><br>
-    <img align="right" alt="Colla-gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/1219697722354040952/1341222359394422855/ezgif.com-animated-gif-maker_1.gif?ex=67b53629&is=67b3e4a9&hm=3b312232023e4afa8c7c2f5fe76ca8ec57e4f907e007e8a6fbd205633193f31e&">
-</div>
-
-### 🤖 Languages and Technologies
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
@@ -56,31 +45,21 @@ Fun facts:
   
 </div>
 
+<div align="center">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecollares&theme=transparent"/>
+</div>
+
 
 <br/>
 <br/>
 </div>
 
-### 📊 Statistics
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=codecollares&show_icons=true&theme=transparent&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecollares&theme=transparent&layout=compact&locale=pt-br&custom_title=Technologies&langs_count=4" 
-/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codecollares/codecollares/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codecollares/codecollares/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codecollares/codecollares/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codecollares/codecollares/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codecollares/codecollares/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codecollares/codecollares/output/github-contribution-grid-snake.svg">
+  </picture>
+</div
